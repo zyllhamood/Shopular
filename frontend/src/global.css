@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: 'KumbhSans', sans-serif;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono';
+    src: url('../public/fonts/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'K2D';
+    src: url('../public/fonts/K2D-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KumbhSans';
+    src: url('../public/fonts/KumbhSans-VariableFont_YOPQ,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

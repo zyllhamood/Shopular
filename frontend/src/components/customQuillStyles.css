@@ -1,0 +1,35 @@
+/* Custom styles for ReactQuill toolbar */
+
+
+.ql-toolbar .ql-picker {
+    color: #fff !important;
+}
+
+.ql-toolbar .ql-stroke {
+    stroke: #fff !important;
+}
+
+.ql-toolbar .ql-fill {
+    fill: #fff !important;
+}
+
+.ql-toolbar .ql-picker-label:hover,
+.ql-toolbar .ql-picker-options .ql-picker-item:hover,
+.ql-toolbar .ql-picker-options .ql-picker-item.ql-active {
+    color: #29435c !important;
+    background-color: #fff !important;
+}
+
+.ql-toolbar .ql-picker-label.ql-active {
+    color: #fff !important;
+}
+
+.ql-toolbar .ql-picker-label {
+    color: #fff !important;
+    background-color: #29435c !important;
+}
+
+.ql-toolbar .ql-picker-options {
+    color: #29435c !important;
+    background-color: #fff !important;
+}
